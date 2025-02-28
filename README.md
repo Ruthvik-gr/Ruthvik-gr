@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruthvik Ghagarwale</h1>
-<h3 align="center">I am a recent CSE graduate with experience in Fullstack Web-based technologies. I have led hackathon teams and worked as a Software Development Engineer Intern. I have developed projects like Sidezz, QRifyMe, and ShowDekho, and mentored over 100 individuals in technology and programming.</h3>
+<h3 align="center">I am a CSE graduate with experience in full-stack web-based technologies. I have led hackathon teams and worked as a Software Development Engineer Intern. I have developed projects like News Capsule, QRifyMe, and ShowDekho and mentored over 100 individuals in technology and programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthvik-gr&label=Profile%20views&color=0e75b6&style=flat" alt="ruthvik-gr" /> </p>
 
